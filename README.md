@@ -3,7 +3,7 @@ For Portfolio
 
 Built with Flask Web Framework
 
-Most program logic is in the scripts folder.
+Program logic is in the scripts folder.
 
 | Technologies  | Languages Used | Systems |
 | ------- | ---------------- | ------------|
